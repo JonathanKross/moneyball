@@ -1,6 +1,6 @@
 # Moneyball
 
-Moneyball uses the most recent complete baseball statistics dataset (updated January 24, 2015) from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/) to find the players with the highest OBP and the lowest salary in a specific year and uses that data to build a 9 player roster. The Moneyball notebook in this repo includes a roster of the highest value players for the 2010 season.
+Moneyball uses the most recent complete baseball statistics dataset from [Sean Lahman's website](http://www.seanlahman.com/baseball-archive/statistics/) to find the players with the highest OBP and the lowest salary in a specific year and uses that data to build a 9 player roster. The Moneyball notebook in this repo includes a roster of the highest value players for the 2010 season.
 
 The Moneyball rosters include:
 * Baseman (1st, 2nd, 3rd)
